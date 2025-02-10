@@ -1,56 +1,46 @@
-<h2 align="left">Hi 👋! My name is Reza Mirzaei</h2>
+### Hi there, I'm Reza Mirzaei! 👋
 
-###
+I'm the **Manager of Emirates Ticket** and a **passionate developer** who loves coding, especially with **Laravel, Next.js, TailwindCSS**, and everything related to them. Besides coding, I have a deep love for **classical music**! 🎻🎶
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=realrezamirzaei&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=realrezamirzaei&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&date_format=%5BY%20%5DM%20j" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=realrezamirzaei&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+---
 
-###
+## 🚀 Skills & Technologies
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" alt="wordpress logo"  />
-</div>
+- **Frontend**: Next.js, React, TailwindCSS, NextUI
+- **Backend**: Laravel, REST APIs
+- **Databases**: MySQL, PostgreSQL
+- **Tools & Platforms**: Git, GitHub, Docker, Vercel, Linux
+- **Other Interests**: UI/UX Design, Open-source development
 
-###
+![Laravel](https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://instagram.com/realrezamirzaei" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://wa.me/989941674355" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=realrezamirzaei&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=realrezamirzaei&theme=radical" alt="GitHub Streak"/>
 </div>
 
-###
+---
 
-<br clear="both">
+## 🌐 Connect with Me
 
-<img src="https://raw.githubusercontent.com/realrezamirzaei/realrezamirzaei/output/snake.svg" alt="Snake animation" />
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/realrezamirzaei)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/989941674355)
 
-###
+---
+
+---
+
+### 🔥 Special Section - Random Cool Stuff 😎
+
+```javascript
+const passion = ['Coding', 'Music', 'Business'];
+console.log(`I love ${passion.join(', ')} ❤️`);
+```
+
+> "Coding is like composing a symphony – every line is a note, every function is a melody, and every project is a masterpiece!" 🎵💻
